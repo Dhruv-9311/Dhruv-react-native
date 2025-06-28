@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://reactnative.dev/">
-    Best of luck 
+Hello world
   </a>
 </h1>
 
